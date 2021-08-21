@@ -1,0 +1,16 @@
+{
+    "name": "bensonirah/hello-world",
+    "description": "a php lib for learn packagist",
+    "type": "library",
+    "require": {
+        "symfony/var-dumper": "5.4.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bensonirah",
+            "email": "bensonirah@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
